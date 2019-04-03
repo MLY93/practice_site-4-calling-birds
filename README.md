@@ -1,6 +1,6 @@
 # 4 Calling Birds 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/88023260-5243-4aac-a9e6-6d6d94ad1a27/deploy-status)](https://app.netlify.com/sites/walkingholidays-samplepage/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1b1152e7-a7cd-4d7e-b8ec-a07da54df559/deploy-status)](https://app.netlify.com/sites/4-calling-birds/deploys)
 
 ## Inspiration 
 
